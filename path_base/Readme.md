@@ -1,0 +1,3 @@
+复现的LSTMPR的代码，ipynb用于聚类，跑LSTMPR.py就可以得到结果，注意更改课程名称参数
+ALPR复现效果很差，不建议使用
+KG文件夹下存放了预训练的KG Embedding

@@ -1,0 +1,3 @@
+3
+topic-challenge	1
+exercise-challenge	2
